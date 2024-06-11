@@ -48,14 +48,13 @@ header {
 
 #cta .title {
   font-size: 3rem;
-  padding-top: 0px;
+  padding-top: 50px;
   
 }
 
   #cta .description{
     font-size: 1rem;
     flex-wrap: wrap;
-    padding-top: 100px;
   }
 
   #cta_buttons {
