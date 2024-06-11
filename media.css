@@ -21,8 +21,8 @@ header {
   }
 
   dialog {
-    width: 30vh;
-    height: 20vh;
+    width: 90vh;
+    height: 35vh;
     border: none;
     border-radius: .5rem;
     text-align: center;
@@ -30,7 +30,7 @@ header {
     justify-content: center;
     align-items: center;
     position: fixed;
-    left: 15%;
+    left: 35%;
   }
 
   dialog button{
